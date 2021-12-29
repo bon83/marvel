@@ -29,6 +29,6 @@ app.get('/characters/:characterId',async(req, res) => {
 
 
 
-  app.listen(3000, function () {
-    console.log("Express server listening on port 3000")
+  app.listen(8000, function () {
+    console.log("Express server listening on port 8000")
     });
